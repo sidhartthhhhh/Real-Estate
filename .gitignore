@@ -1,8 +1,30 @@
-/.env
-/.venv
-/__pycache__
-/patient_records.csv
-/rag_assistant.ipynb
-/readme.md
+# 🐍 Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🤖 Virtual environment
 venv/
-venv/ 
+.venv/
+
+# 🔐 Environment variables
+.env
+
+# 📓 Jupyter Notebooks
+*.ipynb
+
+# 📄 CSVs and data
+*.csv
+
+# 💻 OS-specific files
+.DS_Store
+Thumbs.db
+
+# 📦 Dependency and build artifacts
+*.egg-info/
+dist/
+build/
+
+# 📁 Other project-specific files
+readme.md
