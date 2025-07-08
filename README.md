@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Real Estate Assistant Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Real Estate Assistant Banner" />
 </p>
+
 
 # 🏠 Real Estate News Assistant using Retrieval-Augmented Generation (RAG)
 
