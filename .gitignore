@@ -1,0 +1,6 @@
+/.env
+/.venv
+/__pycache__
+/patient_records.csv
+/rag_assistant.ipynb
+/readme.md
